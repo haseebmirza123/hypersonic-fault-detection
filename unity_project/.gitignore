@@ -1,0 +1,41 @@
+# ========== Unity Generated Folders ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# ========== OS/System Files ==========
+.DS_Store
+*.tmp
+*.bak
+*.swp
+*.swo
+*.pidb
+
+# ========== IDE/Editor Files ==========
+.vscode/
+.idea/
+*.code-workspace
+*.userprefs
+*.sln
+*.csproj
+*.unityproj
+*.suo
+
+# ========== Build Outputs ==========
+*.apk
+*.aab
+*.exe
+*.dll
+*.pdb
+
+# ========== Crash Reports & Logs ==========
+*.log
+*.stacktrace
+
+# ========== Unity Cache ==========
+*.unitypackage
